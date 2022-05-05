@@ -28,8 +28,8 @@ Pass the required location it will return the distance and destination.
 
 ## PROGRAM
 ```
-Student name : Srinivasan S
-Reg.no : 212220230048
+Student name : Sriharish
+Reg.no : 212220230047
 ```
 ```python
 %matplotlib inline
